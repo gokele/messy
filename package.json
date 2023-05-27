@@ -1,0 +1,20 @@
+{
+  "name": "gokele",
+  "version": "1.1.1",
+  "description": "可乐 Home",
+   "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokele/messy.git"
+  },
+  "keywords": [
+    "gokele"
+  ],
+  "author": "gokele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gokele/messy/issues"
+  },
+  "homepage": "https://github.com/gokele/messy#readme"
+}
